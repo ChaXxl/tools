@@ -8,6 +8,6 @@ some advices:
 
 ![](https://imgbed.chachal.xyz/img/202205270924102410.png)
 
-1. The display of the favorites bar should also give one more option：show when mouse over toolbar
+3. The display of the favorites bar should also give one more option：show when mouse over toolbar
 
   ![](https://imgbed.chachal.xyz/img/20220527092604264.png)
