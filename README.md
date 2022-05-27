@@ -2,7 +2,7 @@ some advices:
 
 ## 1. It should enable users to customize shortcut keys. Just like this:
 
-    ![20220527090520417](https://imgbed.chachal.xyz/img/202205270922372237.png)
+![20220527090520417](https://imgbed.chachal.xyz/img/202205270922372237.png)
 
 ## 2. Increase the mouse gesture function, which can really improve the experience of web browsing.Like this:
 
